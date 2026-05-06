@@ -1,0 +1,11 @@
+#update balance after deposit
+current_balance=10000 # initial balance
+deposit_balance=5000 #deposit amount
+print(f"current_balance:{current_balance}")
+print(f"depost_balance:{deposit_balance}")
+
+current_balance=current_balance+deposit_balance
+print(f"after deposite:{current_balance}")
+
+
+
