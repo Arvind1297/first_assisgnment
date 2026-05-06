@@ -1,0 +1,10 @@
+#apply a 20%discount to a price
+price=1000#before
+discount_percent=20 
+print(f"price:{price}")
+print(f"discount_percent:{discount_percent}")
+
+after_discount= 1000*20//100
+final_price=price-after_discount
+
+print(f"final_price:{final_price}")

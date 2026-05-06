@@ -1,0 +1,11 @@
+#calculate total average of 4 subjects
+subject1=80
+subject2=75
+subject3=90
+subject4=85
+print(f"subject1 subject2 subject3 subject4:{subject1},{subject2}, {subject3} ,{subject4}")
+
+sum_of_all_subjects=subject1+subject2+subject3+subject4
+total_average=sum_of_all_subjects/4
+
+print(f"total_average:{total_average}")
