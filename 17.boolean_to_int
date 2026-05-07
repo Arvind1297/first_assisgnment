@@ -1,0 +1,6 @@
+input = True
+print(f"before coversion value of input: {input}")
+input= int(input)
+
+print(f"after conversion value of input: {input}" )
+print(type(input))

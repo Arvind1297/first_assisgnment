@@ -1,0 +1,10 @@
+l = 4
+b = 3
+h = 2
+print(f"length of surface area of a cuboid:{l}")
+print(f"breadth of surface area of a cuboid:{b}")
+print(f"heigth of surface area of a cuboid:{h}")
+
+surface_area_of_a_cuboid = 2*(l*b+b*h+h*l)
+
+print(f"surface_area_of_a_cuboid: {surface_area_of_a_cuboid}")

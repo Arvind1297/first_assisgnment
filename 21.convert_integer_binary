@@ -1,0 +1,7 @@
+#convert_integer_to_binary
+integer = 25
+print(f"before conversion value of integer: {integer}")
+print(f"after conversion in binary: {bin(integer)} ")
+
+
+

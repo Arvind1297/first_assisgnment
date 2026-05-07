@@ -1,0 +1,8 @@
+#convert float into string
+input = 45.67
+print(f"before conversion : {input}")
+
+input = str(input)
+
+print(f"after conversion : {input}")
+print(type(input))

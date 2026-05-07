@@ -1,0 +1,8 @@
+base = 10
+height = 6
+print(f"value of base of area_of_triangle triangle:{base}")
+print(f"value of height of a triangle:{height}")
+
+area_of_triangle = 1/2*(base*height)
+
+print(f"area_of_triangle:{area_of_triangle}")
