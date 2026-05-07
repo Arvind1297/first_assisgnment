@@ -1,0 +1,4 @@
+movie_name = input("enter movie name:")
+viewer_name = input("enter viewer name:")
+seat_number = input("enter seat number:")
+show_time = input("enter show time:")

@@ -2,7 +2,7 @@
 input = 45.67
 print(f"before conversion : {input}")
 
-input = str(input)
+output = str(input)
 
-print(f"after conversion : {input}")
-print(type(input))
+print(f"after conversion : {output}")
+print(type(output)

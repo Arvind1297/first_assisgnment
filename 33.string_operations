@@ -1,0 +1,6 @@
+name = input("enter your name:")
+age = int(input("enter your age:"))
+city = input("enter your city:")
+hobby = input("enter your hobby:")
+print(f"""meet {name}, {age} year old enthusiast from{city}\n.when not busy with daily tasks\n{name} loves spending time{hobby}
+life in {city}\n keeps {name} energetic and curious every single day.\n with coding as a passion\n the future looks creative and inspiring for {name}\n in the {city} city  """)
